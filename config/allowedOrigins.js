@@ -1,5 +1,3 @@
-const allowedOrigins = [
-    'https://technotes.onrender.com'
-]
+const allowedOrigins = ["https://bootcom-systems.onrender.com"];
 
-module.exports = allowedOrigins
+module.exports = allowedOrigins;
